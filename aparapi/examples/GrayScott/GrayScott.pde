@@ -15,6 +15,7 @@ import toxi.math.MathUtils;
 import controlP5.ControlP5;
 import com.amd.aparapi.*;
 import controlP5.Slider2D;
+import java.util.*;
 
 	GreyScottKernelP5 lifeKernel;
 	PImage img = null;
